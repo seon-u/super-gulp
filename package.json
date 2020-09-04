@@ -27,7 +27,7 @@
     "gulp-image": "^5.1.0",
     "gulp-sass": "^4.0.2",
     "gulp-webserver": "^0.9.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "uglifyify": "^5.0.2"
   },
   "browserslist": [
